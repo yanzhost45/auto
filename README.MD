@@ -108,6 +108,7 @@ Jika ada masalah atau pertanyaan, silakan buka issue pada repository ini.
 
 ## FITUR BOT
 ADMIN MENU
+```
 - Seting user 
   ├── Daftar User
   ├── Tambah User
@@ -123,8 +124,9 @@ ADMIN MENU
   └── setting cara deposit
 - Deposit Api
   └── Deposit Saldo panel web
-
+```
 USER MENU
+```
 - Otp Login
   └── cek sesi nomor, kirim otp, verifikasi otp, cek pulsa, cek kuota, pembelian produk
 - Transaksi Terjadwal
@@ -137,5 +139,5 @@ USER MENU
   └── daftar transaksi pending yang ada di transaksi terjadwal
 - Riwayat transaksi
   └── notifikasi transaksi sukses akan di kirim pada bot notifikasi
-
+```
   
