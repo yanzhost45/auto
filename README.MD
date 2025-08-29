@@ -105,4 +105,37 @@ python3 bot.py
 ## ✨ Selesai!
 Bot siap digunakan.  
 Jika ada masalah atau pertanyaan, silakan buka issue pada repository ini.
-```
+
+## FITUR BOT
+ADMIN MENU
+- Seting user 
+  ├── Daftar User
+  ├── Tambah User
+  ├── Edit User (username, saldo, status)
+  └── Hapus User
+- Setting Produk
+  ├── Daftar Produk
+  └── Edit Produk (nama produk, kategori, harga, deskripsi, status)
+- Setting Bot
+  ├── setting status bot (open, close, maintenance)(private, public)
+  ├── Kirim notifikasi ke user yang terdaftar
+  ├── seting cara pembelian
+  └── setting cara deposit
+- Deposit Api
+  └── Deposit Saldo panel web
+
+USER MENU
+- Otp Login
+  └── cek sesi nomor, kirim otp, verifikasi otp, cek pulsa, cek kuota, pembelian produk
+- Transaksi Terjadwal
+  └── Jadwalkan transaksi otomatis di tanggal dan jam yang sudah di atur
+- Sidompul Cek Kuota
+  └── cek kuota untuk XL & Axis
+- Deposit 
+  └── Depsoit user mengubah qris statis menjadi qris dinamis
+- Transaksi Pending
+  └── daftar transaksi pending yang ada di transaksi terjadwal
+- Riwayat transaksi
+  └── notifikasi transaksi sukses akan di kirim pada bot notifikasi
+
+  
