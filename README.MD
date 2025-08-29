@@ -1,4 +1,3 @@
-```markdown
 # Bot Telegram Seller XL
 Bot Telegram untuk keperluan penjualan/otomatisasi tembak paket, dengan fitur backup database ke Google Drive (opsional).
 
