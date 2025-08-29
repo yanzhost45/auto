@@ -71,6 +71,12 @@ Jika ingin fitur backup database otomatis ke Google Drive:
 - Install python3 (minimal 3.7)
 - Install dependensi dari `requirements.txt`:
 ```bash
+python3 -m venv venv
+```
+```bash
+source venv/bin/activate
+```
+```bash
 pip install -r requirements.txt
 ```
 
