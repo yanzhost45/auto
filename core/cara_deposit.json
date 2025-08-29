@@ -1,0 +1,10 @@
+{
+  "judul": "Cara Deposit Saldo",
+  "langkah": [
+    "Pilih menu deposit.",
+    "Masukan Jumlah deposit.",
+    "Lakukan pembayaran.",
+    "Kirimkan bukti pembayaran pada admin melalui chat pribadi atau kirimkan bukti langsung pada bot"
+  ],
+  "catatan": "Notes: FORMAT BUKTI PENBAYARAN\nUserId telegram:\nUsername telegram:\nJumlah deposit:"
+}

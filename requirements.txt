@@ -1,0 +1,9 @@
+aiogram
+pytz
+requests
+qrcode
+Pillow
+aiohttp
+pyzbar
+numpy
+opencv-python-headless

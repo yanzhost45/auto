@@ -1,0 +1,11 @@
+{
+    "judul": "Cara Pembelian Produk",
+    "langkah": [
+      "Wajib login otp sebelum pembelian.",
+      "Pilih menu OTP LOGIN jika nomor belum pernah order.",
+      "Pilih Daftar Produk Jika nomor sudah pernah order.",
+      "Pastikan membaca deskripsi produk dengan benar.",
+      "Pilih kategori produk -> pilih produk -> pilih metode pembayaran (PULSA, DANA, GOPAY, SHOPEEPAY, QRIS) selesaikan pembayaran melalui link pembayaran."
+    ],
+    "catatan": "Paket akan otomatis aktif jika pembayaran berhasil."
+  }

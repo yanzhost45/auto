@@ -1,0 +1,16 @@
+{
+  "token": "bot_utama",
+  "notifikasi": "bot_notifikasi",
+  "notifikasi_username": "username_bot",
+  "admin": {
+    "userid": 123456789,
+    "username": "username"
+  },
+  "api": {
+    "base_url": "https://api.st.tunnel.sistemtopup.shop",
+    "email": "email@gmail.com",
+    "password": "password"
+  },
+  "qris_string": "",
+  "qris_path": "core/qris.png"
+}
